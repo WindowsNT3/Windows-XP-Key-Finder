@@ -1,0 +1,10 @@
+C:\Documents and Settings\Leo\My Documents\Visual Studio 2008\Projects\Windows XP Key Finder\Windows XP Key Finder\bin\Release\Windows XP Key Finder.exe
+C:\Documents and Settings\Leo\My Documents\Visual Studio 2008\Projects\Windows XP Key Finder\Windows XP Key Finder\bin\Release\Windows XP Key Finder.pdb
+C:\Documents and Settings\Leo\My Documents\Visual Studio 2008\Projects\Windows XP Key Finder\Windows XP Key Finder\bin\Release\Windows XP Key Finder.xml
+C:\Documents and Settings\Leo\My Documents\Visual Studio 2008\Projects\Windows XP Key Finder\Windows XP Key Finder\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Leo\My Documents\Visual Studio 2008\Projects\Windows XP Key Finder\Windows XP Key Finder\obj\Release\Windows XP Key Finder.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Leo\My Documents\Visual Studio 2008\Projects\Windows XP Key Finder\Windows XP Key Finder\obj\Release\Windows XP Key Finder.exe
+C:\Documents and Settings\Leo\My Documents\Visual Studio 2008\Projects\Windows XP Key Finder\Windows XP Key Finder\obj\Release\Windows XP Key Finder.xml
+C:\Documents and Settings\Leo\My Documents\Visual Studio 2008\Projects\Windows XP Key Finder\Windows XP Key Finder\obj\Release\Windows XP Key Finder.pdb
+C:\Documents and Settings\Leo\My Documents\Visual Studio 2008\Projects\Windows XP Key Finder\Windows XP Key Finder\obj\Release\XPKeyFinder.Form1.resources
+C:\Documents and Settings\Leo\My Documents\Visual Studio 2008\Projects\Windows XP Key Finder\Windows XP Key Finder\obj\Release\XPKeyFinder.Resources.resources
